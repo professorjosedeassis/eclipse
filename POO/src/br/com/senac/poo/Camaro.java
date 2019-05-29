@@ -1,9 +1,5 @@
 package br.com.senac.poo;
 
-import java.sql.PreparedStatement;
-
-import com.mysql.jdbc.Connection;
-
 public class Camaro {
 
 	public static void main(String[] args) {
