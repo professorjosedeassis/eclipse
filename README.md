@@ -2,13 +2,13 @@
 
 # Integração da IDE Eclipse com o GitHub
 :octocat: Este repositório foi usado como um dos exemplos do curso git e GitHub.
-## Autor
+### Autor
 Professor José de Assis
-## Videoaula (Integração da IDE Eclipse com o GitHub):
+### Videoaula (Integração da IDE Eclipse com o GitHub):
 [![shellscript](https://img.youtube.com/vi/MdioIaiK9-Y/0.jpg)](https://youtu.be/MdioIaiK9-Y "Assistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/MdioIaiK9-Y?style=social)
-## Playlist do curso:
+### Playlist:
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
 ## Como apoiar os cursos gratuitos e projetos?
 Você pode:
