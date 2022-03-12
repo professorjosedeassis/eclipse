@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/shellscript)
 
 # Integração da IDE Eclipse com o GitHub
-:octocat: Este repositório foi usado como um dos exemplos do curso git e GitHub.
+:octocat: Este repositório foi usado como um dos exemplos do curso Git e GitHub.
 ### Autor
 Professor José de Assis
 ### Videoaula (Integração da IDE Eclipse com o GitHub)
@@ -10,6 +10,8 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/MdioIaiK9-Y?style=social)
 ### Playlist
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzK14I7OOeREEIE4k6rjgIj)
+### Certificado
+[Iniciar teste](https://forms.gle/R7iabpjXkbfjwaWj8)
 ## Como apoiar os cursos gratuitos e projetos?
 Você pode:
 - Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
