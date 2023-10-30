@@ -3,7 +3,7 @@
 # Integração da IDE Eclipse com o GitHub
 Descubra como integrar a sua IDE favorita, o Eclipse, com o poderoso GitHub! Neste tutorial passo a passo, você aprenderá a configurar uma integração perfeita entre o Eclipse e o GitHub, permitindo que você gerencie seus projetos, controle versões e colabore de maneira eficiente. Simplifique o seu fluxo de trabalho de desenvolvimento e aumente a produtividade com essa poderosa integração. Assista agora e domine a arte da colaboração e controle de versão no Eclipse com o GitHub!
 
-:octocat: Este repositório foi usado como um dos exemplos do tutorial Git e GitHub.
+:octocat: Este repositório foi usado como um dos exemplos do curso Git e GitHub.
 ### Autor
 Professor José de Assis
 ### Videoaula (Integração da IDE Eclipse com o GitHub)
